@@ -1,3 +1,10 @@
+-- // The Survival Game Script, orignally written for v3, ported to v2. Enjoy!
+
+--[[ TODO
+    - CONFIG SYSTEM
+
+]]
+
 if getgenv().TSG_LOADED then 
     return warn("[tgs.lua] script already loaded, rejoin to re-execute.")
 else
